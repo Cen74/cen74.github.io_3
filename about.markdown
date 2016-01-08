@@ -3,20 +3,15 @@ title: about
 layout: page
 ---
 
-a
+try to be a 
 
-> Minimalist | Appleist | Unixer | Coder
+> Minimalist 
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/cen74)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> hongcen_li@foxmail.com
 
-or follow 
-
-> [@o_lll](https://twitter.com/#!/o_lll)
-
-to reach me
