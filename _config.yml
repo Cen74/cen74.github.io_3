@@ -2,9 +2,8 @@ highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 name: "Little High Moutain"
 
-markdown: kramdown
-kramdown:
-   input: GFM    
+markdown: rdiscount
+highlighter: pygments
 
 
 author: "Cen"
